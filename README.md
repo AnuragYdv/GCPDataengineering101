@@ -1,6 +1,2 @@
-# GCPDataengineering101
+# Introduction to GCP services
 
-The aim of this repository is to create 0 to 1 knowledge repository for GCP Data Engineering. 
-This will give you codes for hands-on experience on all the DE toolsets
-# Module 1
- 1.1 Code to read and write to different storages<br>1.2 Code to read and write to different tools <br>1.3 A simple migration project workflow
